@@ -1,5 +1,6 @@
-# Gallery_Crop_13012018
-Crop your photos
+# Gallery_Crop_12082017
+
+Crop your photos(from camera/gallery)
 
 Version 1.0
 
