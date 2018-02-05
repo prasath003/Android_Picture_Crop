@@ -1,6 +1,6 @@
 # Gallery_Crop_12082017
 
-Crop your photos(from camera/gallery)
+Crop your photos(from camera/gallery)in Android
 
 Version 1.0
 
