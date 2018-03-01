@@ -1,4 +1,4 @@
-# Gallery_Crop_12082017
+# Android Cropping the images
 
 Crop your photos(from camera/gallery)in Android
 
